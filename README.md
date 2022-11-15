@@ -3,7 +3,6 @@
 PCR 1代表成功移除肿瘤，0代表未成功——>classification\
 RFS 代表进行化疗后，人能存活的时间——>regression
 
-[//]: # (predict的结果的格式：第一列是ID，第二列是PCR，第三列是RFS)
 **![img.png](img.png)**
 
 testDatasetExamples文件只是一个样板，并不是真正的test set
