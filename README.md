@@ -3,7 +3,7 @@
 PCR 1代表成功移除肿瘤，0代表未成功——>classification\
 RFS 代表进行化疗后，人能存活的时间——>regression
 
-[image](https://user-images.githubusercontent.com/116068913/202206017-1355ce86-4260-4c57-abff-ca231786a3ac.png)
+**![img.png]**(https://user-images.githubusercontent.com/116068913/202206017-1355ce86-4260-4c57-abff-ca231786a3ac.png)
 
 
 testDatasetExamples文件只是一个样板，并不是真正的test set\
